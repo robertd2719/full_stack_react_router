@@ -4,6 +4,7 @@ import About from "./Components/About";
 import AddBlog from "./Components/AddBlog";
 import Home from "./Components/Home";
 import NavBar from "./Components/NavBar";
+import Clock from "./Components/Clock";
 
 function App() {
   return (
